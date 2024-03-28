@@ -1,0 +1,31 @@
+
+body{
+    background-color: rgb(28, 27, 27);
+}
+
+.mainPart{
+    width: 440px;
+    margin: 0 auto;
+    color: aliceblue;
+    text-decoration: underline;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#descp{
+    padding: 40px; 
+    font-size: x-large; 
+}
+
+.keyInfo{
+    color: cornsilk;
+    
+    
+    
+}
+table{
+    margin: 0 auto;
+}
+table ,th ,td{
+    border: 2px solid beige;
+}
